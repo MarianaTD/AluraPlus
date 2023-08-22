@@ -26,7 +26,7 @@
      .container {
          height: 100vh;
          display:grid;
-         grid-template-columns: 50% 50%;
+         grid-template-columns: 26% 26%;
  
      }
      .container_botao {
@@ -45,6 +45,6 @@
      }
 
      .container_aviso {
-        
+
      }
      
